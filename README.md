@@ -2,10 +2,11 @@
 The dataset that I used in part 3 of this assignment was a fake news article dataset.
 I sourced this dataset from Kaggle which you can find at https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset. Through this link, you can download a folder containing a CSV of information on real news articles and a CSV of information on fake news articles.
 This information includes:
-	- The title of the article,
-	- The text in the article,
-	- The subject of the article,
-	- The date the article was posted.
+
+   * The title of the article,
+   * The text in the article,
+   * The subject of the article,
+   * The date the article was posted.
 
 In my case, however, I was only concerned with the article titles as I could easily turn these into sentences and generate synthetic article titles.
 I decided to use the fake news dataset over the real news dataset as I found this a more interesting task than generating real news.
